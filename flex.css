@@ -1,0 +1,61 @@
+.container{
+    position: absolute;
+    background-color: rgb(165, 177, 174);
+    width: 60vw;
+    height: 40vh;
+    position: absolute;
+    margin: 50px 210px 0px 290px;
+    border-radius: 15PX;
+}
+.container2{
+    background-color: white;
+    width: 58vw;
+    height: 37vh;
+    position: absolute;
+    margin: 10px 20px 15px 15px;
+    border-radius: 5PX;
+}
+.svg1{
+    position: relative;
+    top: 3px;
+    color: orange;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.b1{
+    color: rgb(7, 106, 155);
+}
+.b2{
+    font-weight: 100;
+    padding-left: 650px;
+}
+.svg2{
+    position: relative;
+    top: 7px;  
+}
+.picco1{
+    display: flex;
+    column-gap: 10px;
+    position: relative;
+    left: 20px;
+    /* margin: 5px; */
+}
+.pic1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 80px;
+    height: 50px;
+    border-radius: 50%;
+ 
+
+}
+.onec{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 30px 25px 0px 15px;
+
+}
+
+

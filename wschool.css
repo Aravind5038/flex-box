@@ -1,0 +1,68 @@
+.oned{
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+.img1{
+    position: relative;
+    top: 1px;
+    left: 2px;
+    right: 2px;
+    bottom: 1px;
+    width: 40px;
+    height: 30px;
+}
+input[type=text]{
+    border: 2px solid black;
+    border-radius: 10px;
+    font-style: italic;
+
+}
+b{
+    font-weight: 500;
+
+}
+.star{
+    color: blueviolet;
+
+}
+
+.twod{
+    display: flex;
+    align-items: center;
+    height: 30px;
+    background-color: black;
+    color: white;  
+}
+.gap{
+    display: flex;
+    gap: 30px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.sign{
+    background-color: rgb(53, 170, 53);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    left: 20px;
+}
+.login{
+    background-color: rgb(195, 237, 195);
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    width: 90px;
+    height: 30px;
+
+}
+
